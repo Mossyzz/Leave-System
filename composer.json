@@ -1,0 +1,5 @@
+{
+  "name": "leave-system",
+  "description": "A simple PHP leave system",
+  "require": {}
+}
