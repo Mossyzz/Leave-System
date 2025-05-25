@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buulds": [
+  "builds": [
     {
         "src": "index.php",
         "use": "@now/node"
